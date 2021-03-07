@@ -17,7 +17,7 @@ devDependencies:
   build-commit: 0.1.4
   cross-env: 7.0.3
   eslint: 7.21.0
-  eslint-config-atomic: 1.11.0_eslint@7.21.0
+  eslint-config-atomic: 1.12.2_eslint@7.21.0
   parcel: 2.0.0-nightly.476
   prettier: 2.2.1
   shx: 0.3.3
@@ -5138,7 +5138,7 @@ packages:
       eslint-plugin-react-hooks: ^4 || ^3 || ^2.3.0 || ^1.7.0
     resolution:
       integrity: sha512-glZNDEZ36VdlZWoxn/bUR1r/sdFKPd1mHPbqUtkctgNG4yT2DLLtJ3D+yCV+jzZCc2V1nBVkmdknOJBZ5Hc0fg==
-  /eslint-config-atomic/1.11.0_eslint@7.21.0:
+  /eslint-config-atomic/1.12.2_eslint@7.21.0:
     dependencies:
       '@babel/core': 7.13.8
       '@typescript-eslint/eslint-plugin': 4.16.1_56b5201da4dd2e2a545837380cf18178
@@ -5161,7 +5161,7 @@ packages:
     peerDependencies:
       eslint: '>=7'
     resolution:
-      integrity: sha512-xufzYMBouOuCCvv0aZoL0KQikCEZl8u1rkQ1JkPmFq1VVwD7aTfPoliASNQ4FvyQNyaZH6O7qDEdGsQv0z00kw==
+      integrity: sha512-3RxvRCSWTV8B3iINXGCPiZh8m63YyaWrIbBMSoRMkqdE1eTnUD8Zy1miP44ypadldisqgk7ezWuUywjYqxpIJA==
   /eslint-config-prettier/8.1.0_eslint@7.21.0:
     dependencies:
       eslint: 7.21.0
@@ -9711,7 +9711,7 @@ specifiers:
   build-commit: 0.1.4
   cross-env: 7.0.3
   eslint: ^7.21.0
-  eslint-config-atomic: ^1.11.0
+  eslint-config-atomic: ^1.12.2
   fast-glob: ^3.2.5
   is-glob: ^4.0.1
   is-valid-path: ^0.1.1
